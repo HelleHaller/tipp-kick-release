@@ -8,7 +8,7 @@ Die App befindet sich derzeit in der Testphase (Stand: Nov. 2026).
 - **Spielmodi**:
   - **Liga:** 3 gegen 3, 4 gegen 4, optionales Rückspiel
   - **Turnier:** bis zu 12 Spieler, 1-3 parallele Spiele, individuelle Turniernamen
-- **Spielmanagement**: automatische Ansetzungen, Bestimmung des Anstoßrechts und des Schiedsrichters, Hervorhebung der aktuellen Spielrunde, Team- und Einzelwertungen
+- **Spielmanagement**: Wertelisten Mannschaften der Regionalliga West, automatische Ansetzungen, Bestimmung des Anstoßrechts und des Schiedsrichters, Hervorhebung der aktuellen Spielrunde, Team- und Einzelwertungen
 - **Live-Tabelle**
 - **Spielreports im PDF-Format**
 - **Export/Import von Spieldaten (JSON)**
