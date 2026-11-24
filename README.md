@@ -13,10 +13,11 @@ Die App befindet sich derzeit in der Testphase (Stand: Nov. 2026).
 - **Spielreports im PDF-Format**
 - **Export/Import von Spieldaten (JSON)**
 - **Spielzeittimer** (optional): mit An- und Abpfiff der Halbzeiten, Signal für Anbruch der letzten Minute
-- **Wake Lock** (optional): verhindert das Ausschalten des Bildschirms
 - **Rückgängig-Button**: Fehleingaben/Löschungen lassen sich rückgängig machen
+- **Wake Lock** (optional): verhindert das Ausschalten des Bildschirms
 - **Dark Mode**
 
 ## Geplante/experimentelle Features
-- App-Funktion: optionale Installation als Chrome-App unter Android
-- Eingabevorschläge: Vorschläge anhand bereits eingegebener Teams und Spieler
+- App-Funktion: optionale Installation als Chrome-App unter Android (experimentell)
+- Eingabevorschläge: Vorschläge anhand bereits eingegebener Teams und Spieler (experimentell)
+- Dreier-Spieltage
