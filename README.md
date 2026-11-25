@@ -16,9 +16,9 @@ Die App befindet sich derzeit in der Testphase (Stand: Nov. 2026).
 - **Rückgängig-Button**: Fehleingaben/Löschungen lassen sich rückgängig machen
 - **Wake Lock** (optional): verhindert das Ausschalten des Bildschirms
 - **Dark Mode**
+- **Themes**
 
 ## Geplante/experimentelle Features
 - App-Funktion: optionale Installation als Chrome-App unter Android (experimentell)
 - Eingabevorschläge: Vorschläge anhand bereits eingegebener Teams und Spieler (experimentell)
 - Dreier-Spieltage
-- Themes
