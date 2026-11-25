@@ -21,3 +21,4 @@ Die App befindet sich derzeit in der Testphase (Stand: Nov. 2026).
 - App-Funktion: optionale Installation als Chrome-App unter Android (experimentell)
 - Eingabevorschläge: Vorschläge anhand bereits eingegebener Teams und Spieler (experimentell)
 - Dreier-Spieltage
+- Themes
