@@ -15,8 +15,7 @@ Die App befindet sich derzeit in der Testphase (Stand: Nov. 2026).
 - **Spielzeittimer** (optional): mit An- und Abpfiff der Halbzeiten, Signal für Anbruch der letzten Minute
 - **Rückgängig-Button**: Fehleingaben/Löschungen lassen sich rückgängig machen
 - **Wake Lock** (optional): verhindert das Ausschalten des Bildschirms
-- **Dark Mode**
-- **Themes**
+- **Themes**: diverse helle/dunkle Varianten 
 
 ## Geplante/experimentelle Features
 - App-Funktion: optionale Installation als Chrome-App unter Android (experimentell)
